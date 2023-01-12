@@ -88,6 +88,7 @@ Hope U have seen my digital profiles. Now let me give a short explanation about 
 
 # Major Cerification Platforms
 ![](https://img.shields.io/badge/certification-coursera-informational?style=flat&logo=coursera&logoColor=white&color=21455D)
+![](https://img.shields.io/badge/certification-Nasscom-informational?style=flat&logo=nasscom&logoColor=white&color=BDC7BA)
 ![](https://img.shields.io/badge/certification-hackerrank-informational?style=flat&logo=hackerrank&logoColor=white&color=7DC4F4)
 ![](https://img.shields.io/badge/certification-DesignThinking-informational?style=flat&logo=designthinking&logoColor=white&color=AFB9BF)
 ![](https://img.shields.io/badge/certification-IICC-informational?style=flat&logo=codingchampionship&logoColor=white&color=7DF454)
