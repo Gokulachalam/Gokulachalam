@@ -64,6 +64,10 @@ I’m Gokulachalam, Student @KPRIET. Now Im curretntly pursuing my undergraduate
 <img width="241" alt="linked prof badge" src="https://user-images.githubusercontent.com/89055461/211999035-b4e73d88-d5dd-49a2-9b92-bf9989302497.png">
 
 
+# CERTFIFCATION PLATFORMS
+![](https://img.shields.io/badge/coursera-informational?style=flat&logo=coursera&logoColor=white&color=8B8EA7)
+
+
 
 
 
