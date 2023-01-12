@@ -1,5 +1,8 @@
 # **GOKULACHALAM.K**
 
+
+
+
 ### Welcome To My github profile!!!...
 
 <div align="center">
@@ -93,6 +96,57 @@ Hope U have seen my digital profiles. Now let me give a short explanation about 
 ![](https://img.shields.io/badge/certification-DesignThinking-informational?style=flat&logo=designthinking&logoColor=white&color=AFB9BF)
 ![](https://img.shields.io/badge/certification-IICC-informational?style=flat&logo=codingchampionship&logoColor=white&color=7DF454)
 ![](https://img.shields.io/badge/certification-Guvi-informational?style=flat&logo=Guvi&logoColor=white&color=BDC7BA)
+
+
+# Projects Done
+![](https://img.shields.io/badge/MNIST--DIGIT--RECOGNIZER-informational?style=flat&logo=python&logoColor=white&color=21455D)
+![](https://img.shields.io/badge/Heart--Disease--Prediction-informational?style=flat&logo=python&logoColor=white&color=21455D)
+![](https://img.shields.io/badge/E2E--Model--FEP--Bond--Strength--Prediction-informational?style=flat&logo=python&logoColor=white&color=21455D)
+![](https://img.shields.io/badge/E--Commerce--E2E--Website-informational?style=flat&logo=php&logoColor=white&color=21455D)
+![](https://img.shields.io/badge/Railway--Reservation--System-informational?style=flat&logo=Java&logoColor=white&color=21455D)
+![](https://img.shields.io/badge/WebScrapper--Using--Selenium--beautifulsoup-informational?style=flat&logo=python&logoColor=white&color=21455D)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# ------------------THANK U FOR VISITING MY PROFILE-------------------
+
 
 
 
