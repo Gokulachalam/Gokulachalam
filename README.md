@@ -1,7 +1,18 @@
 # **GOKULACHALAM.K**
 
+### Welcome To My github profile!!!...
+
+<div align="center">
+<img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" />
+</div>
+
 ## INTRODUCTION
-Hello all 👋🙋‍...This file consists of my details including my skillsets and projects done.You can know more about me with the help of my digital profile links that I have provided.
+> Hello all 👋🙋‍...This file consists of my details including my skillsets and projects done.You can know more about me with the help of my digital profile links that I have provided.
+
+## About Me
+I’m **Gokulachalam**, Student **@KPRIET**. Now Im curretntly pursuing my undergraduate degree in the field of **Artificial Intelligence and data Science**.I'm a **B.TECH ASPIRANT**.I'm interested in working with real world problems and I will try my best to give the optimal solution for the problems.I love to work with real time data through which I can learn more about the data patterns.Currently my short term goal is to work in my core i.e ML&DL and to get internship with incentives. My long term goal is to become a full time Data Analyst.   [Learn more about data analyst](https://www.simplilearn.com/data-analyst-job-description-article)
+
+
 
 # MY DIGITAL PROFILES
 [![Github Badge](https://img.shields.io/badge/GitHub-Profile-informational?style=flat&logo=github&logoColor=white&color=1CA2F1)](https://github.com/Gokulachalam)
@@ -17,9 +28,19 @@ Hello all 👋🙋‍...This file consists of my details including my skillsets 
 [![Blogspot Badge](https://img.shields.io/badge/blogspot-Profile-informational?style=flat&logo=blogspot&logoColor=white&color=black)](https://gokulachalam14.blogspot.com/)
 
 
-Hope U have seen my digital profiles. Now let me give a short explanation about myself and my areas of interest.
+Hope U have seen my digital profiles. Now let me give a short explanation about my areas of interest.
 
-I’m Gokulachalam, Student @KPRIET. Now Im curretntly pursuing my undergraduate degree in the field of Artificial Intelligence and data Science. My goal is to become a full time Data Analyst.   [Learn more about data analyst](https://www.simplilearn.com/data-analyst-job-description-article)
+## Areas Of Interest
+![](https://img.shields.io/badge/Opencv-informational?style=flat&logo=opencv&logoColor=white&color=D88776)
+![](https://img.shields.io/badge/keras-informational?style=flat&logo=keras&logoColor=white&color=D88776)
+![](https://img.shields.io/badge/Tensorflow-informational?style=flat&logo=tensorflow&logoColor=white&color=D88776)
+![](https://img.shields.io/badge/DataScience-informational?style=flat&logo=datascience&logoColor=white&color=D88776)
+![](https://img.shields.io/badge/MachineLearning-informational?style=flat&logo=machienlearning&logoColor=white&color=D88776)
+![](https://img.shields.io/badge/BigData-informational?style=flat&logo=bigdata&logoColor=white&color=D88776)
+![](https://img.shields.io/badge/DataVisualisation-informational?style=flat&logo=datavisualisation&logoColor=white&color=D88776)
+
+
+
 
 
 
