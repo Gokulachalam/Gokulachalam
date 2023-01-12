@@ -1,9 +1,5 @@
 # **GOKULACHALAM.K**
 
-
-
-
-
 ## INTRODUCTION
 Hello all 👋🙋‍...This file consists of my details including my skillsets and projects done.You can know more about me with the help of my digital profile links that I have provided.
 
@@ -53,27 +49,19 @@ I’m Gokulachalam, Student @KPRIET. Now Im curretntly pursuing my undergraduate
 
 ## Environments in which I used to code
 ![](https://img.shields.io/badge/GoogleColab-informational?style=flat&logo=googlecolab&logoColor=white&color=BA3B98)
-
-
 ![](https://img.shields.io/badge/JupyterNotebook-informational?style=flat&logo=jupyter&logoColor=white&color=BA3B98)
-
-
 ![](https://img.shields.io/badge/VisualStudioCode-informational?style=flat&logo=vs&logoColor=white&color=BA3B98)
-
-
 ![](https://img.shields.io/badge/Linuxcmdline-informational?style=flat&logo=linuxcmdline&logoColor=white&color=BA3B98)
 
 ## Skillset overview
 
 ![](https://img.shields.io/badge/Numpy-informational?style=flat&logo=numpy&logoColor=white&color=8B8EA7)
-
 ![](https://img.shields.io/badge/pandas-informational?style=flat&logo=Pandas&logoColor=white&color=8B8EA7)
-
 ![](https://img.shields.io/badge/Plotly-informational?style=flat&logo=Plotly&logoColor=white&color=8B8EA7)
-
 ![](https://img.shields.io/badge/seaborn-informational?style=flat&logo=seaborn&logoColor=white&color=8B8EA7)
-
 ![](https://img.shields.io/badge/-matplotlib-informational?style=flat&logo=matplotlib&logoColor=white&color=8B8EA7)
+
+<img width="241" alt="linked prof badge" src="https://user-images.githubusercontent.com/89055461/211999035-b4e73d88-d5dd-49a2-9b92-bf9989302497.png">
 
 
 
