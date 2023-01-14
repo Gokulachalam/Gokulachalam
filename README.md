@@ -59,14 +59,15 @@ Hope U have seen my digital profiles. Now let me give a short explanation about 
 ## Front end scripts known
 ![](https://img.shields.io/badge/Advanced-HTML-informational?style=flat&logo=html&logoColor=white&color=B0E6EE)
 ![](https://img.shields.io/badge/Advanced-CSS-informational?style=flat&logo=css&logoColor=white&color=B0E6EE)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=B0E6EE)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=B0E6EE)
+![](https://img.shields.io/badge/Advanced-Flutter-informational?style=flat&logo=FastApi&logoColor=white&color=B0E6EE)
+![](https://img.shields.io/badge/Intermediate-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=B0E6EE)
 
 ## Back end scripts known
 
 ![](https://img.shields.io/badge/Advanced-MYSQL-informational?style=flat&logo=mysql&logoColor=white&color=F06018 )
 ![](https://img.shields.io/badge/Basic-PHP-informational?style=flat&logo=php&logoColor=white&color=F06018 )
 ![](https://img.shields.io/badge/Basic-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=F06018 )
+![](https://img.shields.io/badge/Advanced-FastApi-informational?style=flat&logo=FastApi&logoColor=white&color=B0E6EE)
 
 ## Environments in which I use to code
 
@@ -85,9 +86,6 @@ Hope U have seen my digital profiles. Now let me give a short explanation about 
 ![](https://img.shields.io/badge/seaborn-informational?style=flat&logo=seaborn&logoColor=white&color=8B8EA7)
 ![](https://img.shields.io/badge/-matplotlib-informational?style=flat&logo=matplotlib&logoColor=white&color=8B8EA7)
 
-## Linkedin Badging
-<img width="241" alt="linked prof badge" src="https://user-images.githubusercontent.com/89055461/211999035-b4e73d88-d5dd-49a2-9b92-bf9989302497.png">
-
 
 # Major Cerification Platforms
 ![](https://img.shields.io/badge/certification-coursera-informational?style=flat&logo=coursera&logoColor=white&color=21455D)
@@ -105,6 +103,10 @@ Hope U have seen my digital profiles. Now let me give a short explanation about 
 ![](https://img.shields.io/badge/E--Commerce--E2E--Website-informational?style=flat&logo=php&logoColor=white&color=21455D)
 ![](https://img.shields.io/badge/Railway--Reservation--System-informational?style=flat&logo=Java&logoColor=white&color=21455D)
 ![](https://img.shields.io/badge/WebScrapper--Using--Selenium--beautifulsoup-informational?style=flat&logo=python&logoColor=white&color=21455D)
+
+
+## Linkedin Badging
+<img width="241" alt="linked prof badge" src="https://user-images.githubusercontent.com/89055461/211999035-b4e73d88-d5dd-49a2-9b92-bf9989302497.png">
 
 
 # Internship Details
