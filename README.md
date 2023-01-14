@@ -43,10 +43,6 @@ Hope U have seen my digital profiles. Now let me give a short explanation about 
 ![](https://img.shields.io/badge/DataVisualisation-informational?style=flat&logo=datavisualisation&logoColor=white&color=D88776)
 
 
-
-
-
-
 ## 💼 Scripting languages I use to write codes
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=4AB197)
@@ -67,15 +63,19 @@ Hope U have seen my digital profiles. Now let me give a short explanation about 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=B0E6EE)
 
 ## Back end scripts known
+
 ![](https://img.shields.io/badge/Advanced-MYSQL-informational?style=flat&logo=mysql&logoColor=white&color=F06018 )
 ![](https://img.shields.io/badge/Basic-PHP-informational?style=flat&logo=php&logoColor=white&color=F06018 )
 ![](https://img.shields.io/badge/Basic-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=F06018 )
 
-## Environments in which I used to code
+## Environments in which I use to code
+
 ![](https://img.shields.io/badge/GoogleColab-informational?style=flat&logo=googlecolab&logoColor=white&color=BA3B98)
 ![](https://img.shields.io/badge/JupyterNotebook-informational?style=flat&logo=jupyter&logoColor=white&color=BA3B98)
+![](https://img.shields.io/badge/Anaconda-informational?style=flat&logo=Anaconda&logoColor=white&color=BA3B98)
 ![](https://img.shields.io/badge/VisualStudioCode-informational?style=flat&logo=vs&logoColor=white&color=BA3B98)
 ![](https://img.shields.io/badge/Linuxcmdline-informational?style=flat&logo=linuxcmdline&logoColor=white&color=BA3B98)
+
 
 ## Skillset overview
 
@@ -105,6 +105,11 @@ Hope U have seen my digital profiles. Now let me give a short explanation about 
 ![](https://img.shields.io/badge/E--Commerce--E2E--Website-informational?style=flat&logo=php&logoColor=white&color=21455D)
 ![](https://img.shields.io/badge/Railway--Reservation--System-informational?style=flat&logo=Java&logoColor=white&color=21455D)
 ![](https://img.shields.io/badge/WebScrapper--Using--Selenium--beautifulsoup-informational?style=flat&logo=python&logoColor=white&color=21455D)
+
+
+# Internship Details
+
+![](https://img.shields.io/badge/Xebia-informational?style=flat&logo=Xebia&logoColor=black&color=14FFFF)   -  [Certification for XEBIA](https://mail.google.com/mail/u/0/#advanced-search/attach_or_drive=true&query=xebia+certificate+is+here&isrefinement=true?projector=1)
 
 
 
