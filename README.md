@@ -3,10 +3,11 @@
 
 
 
-### Welcome To My github profile!!!...
+### Welcome To My GitHub Profile!!!...
 
 <div align="center">
 <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" />
+
 </div>
 
 ## INTRODUCTION
@@ -18,6 +19,7 @@ I’m **Gokulachalam**, Student **@KPRIET**. Now Im curretntly pursuing my under
 
 
 # MY DIGITAL PROFILES
+
 [![Github Badge](https://img.shields.io/badge/GitHub-Profile-informational?style=flat&logo=github&logoColor=white&color=1CA2F1)](https://github.com/Gokulachalam)
 
 
@@ -34,6 +36,7 @@ I’m **Gokulachalam**, Student **@KPRIET**. Now Im curretntly pursuing my under
 Hope U have seen my digital profiles. Now let me give a short explanation about my areas of interest.
 
 ## Areas Of Interest
+
 ![](https://img.shields.io/badge/Opencv-informational?style=flat&logo=opencv&logoColor=white&color=D88776)
 ![](https://img.shields.io/badge/keras-informational?style=flat&logo=keras&logoColor=white&color=D88776)
 ![](https://img.shields.io/badge/Tensorflow-informational?style=flat&logo=tensorflow&logoColor=white&color=D88776)
@@ -41,6 +44,7 @@ Hope U have seen my digital profiles. Now let me give a short explanation about 
 ![](https://img.shields.io/badge/MachineLearning-informational?style=flat&logo=machienlearning&logoColor=white&color=D88776)
 ![](https://img.shields.io/badge/BigData-informational?style=flat&logo=bigdata&logoColor=white&color=D88776)
 ![](https://img.shields.io/badge/DataVisualisation-informational?style=flat&logo=datavisualisation&logoColor=white&color=D88776)
+
 
 
 ## 💼 Scripting languages I use to write codes
@@ -51,12 +55,14 @@ Hope U have seen my digital profiles. Now let me give a short explanation about 
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
 
 ## 🧑‍💻Advanced technologies and skills
+
 ![](https://img.shields.io/badge/Advanced-MachineLearning-informational?style=flat&logo=machinelearning&logoColor=white&color=97F52E)
 ![](https://img.shields.io/badge/Advanced-DeepLearning-informational?style=flat&logo=c-DeepLearning&logoColor=white&color=97F52E)
 ![](https://img.shields.io/badge/Advanced-DataScience-informational?style=flat&logo=c-DataScience&logoColor=white&color=97F52E)
 ![](https://img.shields.io/badge/Intermediate-DataAnalytics-informational?style=flat&logo=c-DataAnalytics&logoColor=white&color=97F52E)
 
 ## Front end scripts known
+
 ![](https://img.shields.io/badge/Advanced-HTML-informational?style=flat&logo=html&logoColor=white&color=B0E6EE)
 ![](https://img.shields.io/badge/Advanced-CSS-informational?style=flat&logo=css&logoColor=white&color=B0E6EE)
 ![](https://img.shields.io/badge/Advanced-Flutter-informational?style=flat&logo=FastApi&logoColor=white&color=B0E6EE)
@@ -88,6 +94,7 @@ Hope U have seen my digital profiles. Now let me give a short explanation about 
 
 
 # Major Cerification Platforms
+
 ![](https://img.shields.io/badge/certification-coursera-informational?style=flat&logo=coursera&logoColor=white&color=21455D)
 ![](https://img.shields.io/badge/certification-Nasscom-informational?style=flat&logo=nasscom&logoColor=white&color=BDC7BA)
 ![](https://img.shields.io/badge/certification-hackerrank-informational?style=flat&logo=hackerrank&logoColor=white&color=7DC4F4)
@@ -97,6 +104,7 @@ Hope U have seen my digital profiles. Now let me give a short explanation about 
 
 
 # Projects Done
+
 ![](https://img.shields.io/badge/MNIST--DIGIT--RECOGNIZER-informational?style=flat&logo=python&logoColor=white&color=21455D)
 ![](https://img.shields.io/badge/Heart--Disease--Prediction-informational?style=flat&logo=python&logoColor=white&color=21455D)
 ![](https://img.shields.io/badge/E2E--Model--FEP--Bond--Strength--Prediction-informational?style=flat&logo=python&logoColor=white&color=21455D)
@@ -106,6 +114,7 @@ Hope U have seen my digital profiles. Now let me give a short explanation about 
 
 
 ## Linkedin Badging
+
 <img width="241" alt="linked prof badge" src="https://user-images.githubusercontent.com/89055461/211999035-b4e73d88-d5dd-49a2-9b92-bf9989302497.png">
 
 
