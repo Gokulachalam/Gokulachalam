@@ -10,7 +10,7 @@
 
 </div>
 
-## INTRODUCTION
+## Introduction
 > Hello all 👋🙋‍...This file consists of my details including my skillsets and projects done.You can know more about me with the help of my digital profile links that I have provided.
 
 ## About Me
@@ -18,7 +18,7 @@ I’m **Gokulachalam**, Student **@KPRIET**. Now Im curretntly pursuing my under
 
 
 
-# MY DIGITAL PROFILES
+## My Digital Profiles
 
 [![Github Badge](https://img.shields.io/badge/GitHub-Profile-informational?style=flat&logo=github&logoColor=white&color=1CA2F1)](https://github.com/Gokulachalam)
 
