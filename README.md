@@ -1,14 +1,15 @@
 # **GOKULACHALAM.K**
 
+## Hello All 😊...
+<div align="center">
+<img width="279" alt="gokul-removebg-preview (2)" src="https://user-images.githubusercontent.com/89055461/214765310-c5574fb6-746f-442a-a2c3-991371b0d26c.png">
+</div>
 
 
 
 ### Welcome To My GitHub Profile!!!...
 
-<div align="center">
-<img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" />
 
-</div>
 
 ## Introduction
 > Hello all 👋🙋‍...This file consists of my details including my skillsets and projects done.You can know more about me with the help of my digital profile links that I have provided.
@@ -121,10 +122,6 @@ Hope U have seen my digital profiles. Now let me give a short explanation about 
 # Internship Details
 
 ![](https://img.shields.io/badge/Xebia-informational?style=flat&logo=Xebia&logoColor=black&color=14FFFF)   -  [Certification for XEBIA](https://mail.google.com/mail/u/0/#advanced-search/attach_or_drive=true&query=xebia+certificate+is+here&isrefinement=true?projector=1)
-
-
-
-
 
 
 
