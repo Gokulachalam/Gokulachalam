@@ -31,7 +31,7 @@ I’m **Gokulachalam**, Student **@KPRIET**. Now Im curretntly pursuing my under
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-Profile-informational?style=flat&logo=Kaggle&logoColor=white&color=0D76A8)](https://www.kaggle.com/gokulachalamk)
 
 
-[![Portfolio Badge](https://img.shields.io/badge/blogspot-Profile-informational?style=flat&logo=blogspot&logoColor=white&color=black)](https://gokulachalam.netlify.app/)
+[![Portfolio Badge](https://img.shields.io/badge/portfolio-Profile-informational?style=flat&logo=portfolio&logoColor=white&color=black)](https://gokulachalam.netlify.app/)
 
 [![Blogspot Badge](https://img.shields.io/badge/blogspot-Profile-informational?style=flat&logo=blogspot&logoColor=white&color=black)](https://gokulachalam14.blogspot.com/)
 
