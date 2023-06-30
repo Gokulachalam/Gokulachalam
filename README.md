@@ -68,14 +68,13 @@ Hope U have seen my digital profiles. Now let me give a short explanation about 
 
 ![](https://img.shields.io/badge/Advanced-HTML-informational?style=flat&logo=html&logoColor=white&color=B0E6EE)
 ![](https://img.shields.io/badge/Advanced-CSS-informational?style=flat&logo=css&logoColor=white&color=B0E6EE)
-![](https://img.shields.io/badge/Advanced-Flutter-informational?style=flat&logo=FastApi&logoColor=white&color=B0E6EE)
-![](https://img.shields.io/badge/Intermediate-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=B0E6EE)
+
+
 
 ## Back end scripts known
 
 ![](https://img.shields.io/badge/Advanced-MYSQL-informational?style=flat&logo=mysql&logoColor=white&color=F06018 )
 ![](https://img.shields.io/badge/Basic-PHP-informational?style=flat&logo=php&logoColor=white&color=F06018 )
-![](https://img.shields.io/badge/Basic-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=F06018 )
 ![](https://img.shields.io/badge/Advanced-FastApi-informational?style=flat&logo=FastApi&logoColor=white&color=B0E6EE)
 
 ## Environments in which I use to code
@@ -109,11 +108,14 @@ Hope U have seen my digital profiles. Now let me give a short explanation about 
 # Projects Done
 
 ![](https://img.shields.io/badge/MNIST--DIGIT--RECOGNIZER-informational?style=flat&logo=python&logoColor=white&color=21455D)
-![](https://img.shields.io/badge/Heart--Disease--Prediction-informational?style=flat&logo=python&logoColor=white&color=21455D)
-![](https://img.shields.io/badge/E2E--Model--FEP--Bond--Strength--Prediction-informational?style=flat&logo=python&logoColor=white&color=21455D)
-![](https://img.shields.io/badge/E--Commerce--E2E--Website-informational?style=flat&logo=php&logoColor=white&color=21455D)
-![](https://img.shields.io/badge/Railway--Reservation--System-informational?style=flat&logo=Java&logoColor=white&color=21455D)
-![](https://img.shields.io/badge/WebScrapper--Using--Selenium--beautifulsoup-informational?style=flat&logo=python&logoColor=white&color=21455D)
+![](https://img.shields.io/badge/DEEP--FAKE--DETECTION-informational?style=flat&logo=python&logoColor=white&color=21455D)
+![](https://img.shields.io/badge/BLIND--NAVIGATION--SYSTEM-informational?style=flat&logo=python&logoColor=white&color=21455D)
+![](https://img.shields.io/badge/PHISHING--URL--DETECTION-informational?style=flat&logo=python&logoColor=white&color=21455D)
+![](https://img.shields.io/badge/HEART--SISEASE--PREDICTION-informational?style=flat&logo=python&logoColor=white&color=21455D)
+![](https://img.shields.io/badge/FRP--BOND--STRENGTH--PREDICTION-informational?style=flat&logo=python&logoColor=white&color=21455D)
+![](https://img.shields.io/badge/E--COMMERECE--WEBSITE-informational?style=flat&logo=php&logoColor=white&color=21455D)
+![](https://img.shields.io/badge/RAILWAY--RESERVATION--SYSTEM-informational?style=flat&logo=Java&logoColor=white&color=21455D)
+
 
 
 ## Linkedin Badging
