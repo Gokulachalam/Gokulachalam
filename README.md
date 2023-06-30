@@ -39,8 +39,6 @@ Hope U have seen my digital profiles. Now let me give a short explanation about 
 ![](https://img.shields.io/badge/BigData-informational?style=flat&logo=bigdata&logoColor=white&color=D88776)
 ![](https://img.shields.io/badge/DataVisualisation-informational?style=flat&logo=datavisualisation&logoColor=white&color=D88776)
 
-
-
 ## 💼 Scripting languages I use to write codes
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=4AB197)
@@ -55,19 +53,6 @@ Hope U have seen my digital profiles. Now let me give a short explanation about 
 ![](https://img.shields.io/badge/Advanced-DataScience-informational?style=flat&logo=c-DataScience&logoColor=white&color=97F52E)
 ![](https://img.shields.io/badge/Intermediate-DataAnalytics-informational?style=flat&logo=c-DataAnalytics&logoColor=white&color=97F52E)
 
-## Front end scripts known
-
-![](https://img.shields.io/badge/Advanced-HTML-informational?style=flat&logo=html&logoColor=white&color=B0E6EE)
-![](https://img.shields.io/badge/Advanced-CSS-informational?style=flat&logo=css&logoColor=white&color=B0E6EE)
-
-
-
-## Back end scripts known
-
-![](https://img.shields.io/badge/Advanced-MYSQL-informational?style=flat&logo=mysql&logoColor=white&color=F06018 )
-![](https://img.shields.io/badge/Basic-PHP-informational?style=flat&logo=php&logoColor=white&color=F06018 )
-![](https://img.shields.io/badge/Advanced-FastApi-informational?style=flat&logo=FastApi&logoColor=white&color=B0E6EE)
-
 ## Environments in which I use to code
 
 ![](https://img.shields.io/badge/GoogleColab-informational?style=flat&logo=googlecolab&logoColor=white&color=BA3B98)
@@ -75,9 +60,6 @@ Hope U have seen my digital profiles. Now let me give a short explanation about 
 ![](https://img.shields.io/badge/Anaconda-informational?style=flat&logo=Anaconda&logoColor=white&color=BA3B98)
 ![](https://img.shields.io/badge/VisualStudioCode-informational?style=flat&logo=vs&logoColor=white&color=BA3B98)
 ![](https://img.shields.io/badge/Linuxcmdline-informational?style=flat&logo=linuxcmdline&logoColor=white&color=BA3B98)
-
-
-
 
 # Projects Done
 
