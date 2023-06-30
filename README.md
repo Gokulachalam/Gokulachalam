@@ -86,23 +86,6 @@ Hope U have seen my digital profiles. Now let me give a short explanation about 
 ![](https://img.shields.io/badge/Linuxcmdline-informational?style=flat&logo=linuxcmdline&logoColor=white&color=BA3B98)
 
 
-## Skillset overview
-
-![](https://img.shields.io/badge/Numpy-informational?style=flat&logo=numpy&logoColor=white&color=8B8EA7)
-![](https://img.shields.io/badge/pandas-informational?style=flat&logo=Pandas&logoColor=white&color=8B8EA7)
-![](https://img.shields.io/badge/Plotly-informational?style=flat&logo=Plotly&logoColor=white&color=8B8EA7)
-![](https://img.shields.io/badge/seaborn-informational?style=flat&logo=seaborn&logoColor=white&color=8B8EA7)
-![](https://img.shields.io/badge/-matplotlib-informational?style=flat&logo=matplotlib&logoColor=white&color=8B8EA7)
-
-
-# Major Cerification Platforms
-
-![](https://img.shields.io/badge/certification-coursera-informational?style=flat&logo=coursera&logoColor=white&color=21455D)
-![](https://img.shields.io/badge/certification-Nasscom-informational?style=flat&logo=nasscom&logoColor=white&color=BDC7BA)
-![](https://img.shields.io/badge/certification-hackerrank-informational?style=flat&logo=hackerrank&logoColor=white&color=7DC4F4)
-![](https://img.shields.io/badge/certification-DesignThinking-informational?style=flat&logo=designthinking&logoColor=white&color=AFB9BF)
-![](https://img.shields.io/badge/certification-IICC-informational?style=flat&logo=codingchampionship&logoColor=white&color=7DF454)
-![](https://img.shields.io/badge/certification-Guvi-informational?style=flat&logo=Guvi&logoColor=white&color=BDC7BA)
 
 
 # Projects Done
