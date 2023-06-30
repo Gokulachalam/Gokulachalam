@@ -54,7 +54,7 @@ Hope U have seen my digital profiles. Now let me give a short explanation about 
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
+
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
 
 ## 🧑‍💻Advanced technologies and skills
@@ -123,9 +123,7 @@ Hope U have seen my digital profiles. Now let me give a short explanation about 
 <img width="241" alt="linked prof badge" src="https://user-images.githubusercontent.com/89055461/211999035-b4e73d88-d5dd-49a2-9b92-bf9989302497.png">
 
 
-# Internship Details
 
-![](https://img.shields.io/badge/Xebia-informational?style=flat&logo=Xebia&logoColor=black&color=14FFFF)   -  [Certification for XEBIA](https://mail.google.com/mail/u/0/#advanced-search/attach_or_drive=true&query=xebia+certificate+is+here&isrefinement=true?projector=1)
 
 
 
