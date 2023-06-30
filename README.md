@@ -92,10 +92,6 @@ Hope U have seen my digital profiles. Now let me give a short explanation about 
 
 
 
-## Linkedin Badging
-
-<img width="241" alt="linked prof badge" src="https://user-images.githubusercontent.com/89055461/211999035-b4e73d88-d5dd-49a2-9b92-bf9989302497.png">
-
 
 
 
