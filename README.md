@@ -1,124 +1,24 @@
-# **GOKULACHALAM.K**
+<h1 align="center">Hello all👋, I'm 𝐆𝐎𝐊𝐔𝐋𝐀𝐂𝐇𝐀𝐋𝐀𝐌</h1>
+<h3 align="center">I'm a 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 deeply passionate about creating intelligent systems. My software journey combines innovation and dedication, with a focus on advancing the field of artificial intelligence. Let's join forces to explore transformative solutions. Happy coding! 🚀</h3>
 
-## Hello All 😊...
-<div align="center">
-<img width="279" alt="gokul-removebg-preview (2)" src="https://user-images.githubusercontent.com/89055461/214765310-c5574fb6-746f-442a-a2c3-991371b0d26c.png">
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gokulachalam&label=Profile%20views&color=0e75b6&style=flat" alt="gokulachalam" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gokulachalam" alt="gokulachalam" /></a> </p>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/gokulachalam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gokulachalam/" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/gokulachalamk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/gokulachalamk" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/hackerrankgokul1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/hackerrankgokul1" height="30" width="40" /></a>
+</p>
 
-### Welcome To My GitHub Profile!!!...
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
 
 
-## Introduction
-> Hello all 👋🙋‍...This file consists of my details including my skillsets and projects done.You can know more about me with the help of my digital profile links that I have provided.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gokulachalam&show_icons=true&locale=en&layout=compact" alt="gokulachalam" /></p>
 
-## About Me
-I’m **Gokulachalam**, Student **@KPRIET**. Now Im curretntly pursuing my undergraduate degree in the field of **Artificial Intelligence and data Science**.I'm a **B.TECH ASPIRANT**.I'm interested in working with real world problems and I will try my best to give the optimal solution for the problems.I love to work with real time data through which I can learn more about the data patterns.Currently my short term goal is to work in my core i.e ML&DL and to get internship with incentives. My long term goal is to become a full time Data Analyst.   [Learn more about data analyst](https://www.simplilearn.com/data-analyst-job-description-article)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gokulachalam&show_icons=true&locale=en" alt="gokulachalam" /></p>
 
-
-
-## My Digital Profiles
-
-[![Github Badge](https://img.shields.io/badge/GitHub-Profile-informational?style=flat&logo=github&logoColor=white&color=1CA2F1)](https://github.com/Gokulachalam)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/gokulachalam/)
-[![Kaggle Badge](https://img.shields.io/badge/Kaggle-Profile-informational?style=flat&logo=Kaggle&logoColor=white&color=0D76A8)](https://www.kaggle.com/gokulachalamk)
-[![Portfolio Badge](https://img.shields.io/badge/portfolio-Profile-informational?style=flat&logo=portfolio&logoColor=white&color=black)](https://gokulachalam.netlify.app/)
-[![Blogspot Badge](https://img.shields.io/badge/blogspot-Profile-informational?style=flat&logo=blogspot&logoColor=white&color=black)](https://gokulachalam14.blogspot.com/)
-
-Hope U have seen my digital profiles. Now let me give a short explanation about my areas of interest.
-
-## Areas Of Interest
-
-![](https://img.shields.io/badge/Opencv-informational?style=flat&logo=opencv&logoColor=white&color=D88776)
-![](https://img.shields.io/badge/keras-informational?style=flat&logo=keras&logoColor=white&color=D88776)
-![](https://img.shields.io/badge/Tensorflow-informational?style=flat&logo=tensorflow&logoColor=white&color=D88776)
-![](https://img.shields.io/badge/DataScience-informational?style=flat&logo=datascience&logoColor=white&color=D88776)
-![](https://img.shields.io/badge/MachineLearning-informational?style=flat&logo=machienlearning&logoColor=white&color=D88776)
-![](https://img.shields.io/badge/BigData-informational?style=flat&logo=bigdata&logoColor=white&color=D88776)
-![](https://img.shields.io/badge/DataVisualisation-informational?style=flat&logo=datavisualisation&logoColor=white&color=D88776)
-
-## 💼 Scripting languages I use to write codes
-
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
-
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
-
-## 🧑‍💻Advanced technologies and skills
-
-![](https://img.shields.io/badge/Advanced-MachineLearning-informational?style=flat&logo=machinelearning&logoColor=white&color=97F52E)
-![](https://img.shields.io/badge/Advanced-DeepLearning-informational?style=flat&logo=c-DeepLearning&logoColor=white&color=97F52E)
-![](https://img.shields.io/badge/Advanced-DataScience-informational?style=flat&logo=c-DataScience&logoColor=white&color=97F52E)
-![](https://img.shields.io/badge/Intermediate-DataAnalytics-informational?style=flat&logo=c-DataAnalytics&logoColor=white&color=97F52E)
-
-## Environments in which I use to code
-
-![](https://img.shields.io/badge/GoogleColab-informational?style=flat&logo=googlecolab&logoColor=white&color=BA3B98)
-![](https://img.shields.io/badge/JupyterNotebook-informational?style=flat&logo=jupyter&logoColor=white&color=BA3B98)
-![](https://img.shields.io/badge/Anaconda-informational?style=flat&logo=Anaconda&logoColor=white&color=BA3B98)
-![](https://img.shields.io/badge/VisualStudioCode-informational?style=flat&logo=vs&logoColor=white&color=BA3B98)
-![](https://img.shields.io/badge/Linuxcmdline-informational?style=flat&logo=linuxcmdline&logoColor=white&color=BA3B98)
-
-# Projects Done
-
-![](https://img.shields.io/badge/MNIST--DIGIT--RECOGNIZER-informational?style=flat&logo=python&logoColor=white&color=21455D)
-![](https://img.shields.io/badge/DEEP--FAKE--DETECTION-informational?style=flat&logo=python&logoColor=white&color=21455D)
-![](https://img.shields.io/badge/BLIND--NAVIGATION--SYSTEM-informational?style=flat&logo=python&logoColor=white&color=21455D)
-![](https://img.shields.io/badge/PHISHING--URL--DETECTION-informational?style=flat&logo=python&logoColor=white&color=21455D)
-![](https://img.shields.io/badge/HEART--SISEASE--PREDICTION-informational?style=flat&logo=python&logoColor=white&color=21455D)
-![](https://img.shields.io/badge/FRP--BOND--STRENGTH--PREDICTION-informational?style=flat&logo=python&logoColor=white&color=21455D)
-![](https://img.shields.io/badge/E--COMMERECE--WEBSITE-informational?style=flat&logo=php&logoColor=white&color=21455D)
-![](https://img.shields.io/badge/RAILWAY--RESERVATION--SYSTEM-informational?style=flat&logo=Java&logoColor=white&color=21455D)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# 💗----THANK U FOR VISITING MY PROFILE----💗
-
-
-
-
-
-
-
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gokulachalam&" alt="gokulachalam" /></p>
